@@ -1,5 +1,9 @@
-# 📺 DLHD - Kodi Plugin
-**Enjoy 1000s of dlhd live tv channels in Kodi. Search for your favorite show/sports events/channels at ease**
+# 🎉 Status
+✅ Working fine. Report any issues.
+
+---
+# 📺 DLHD - Kodi Addon
+**Enjoy 1000s of Daddylive live tv channels in Kodi. Search for your favorite shows/sports events/channels at ease**
 
 ---
 
